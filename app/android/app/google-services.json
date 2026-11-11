@@ -12,7 +12,20 @@
           "package_name": "com.vortijatra.app"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "553411028992-ik58f0qsalqavi4pu9jfd7p86bi303m0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vortijatra.app",
+            "certificate_hash": "e1e6998de136b8337b80e8678872ea6f9d269180"
+          }
+        },
+        {
+          "client_id": "553411028992-lecn2e1sedco6k9jpsc3ie3icl28rm02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCp-pvZ12zz-6ggNprGXN-bNPAsKaPImTc"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553411028992-lecn2e1sedco6k9jpsc3ie3icl28rm02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
