@@ -1,0 +1,17 @@
+# VortiJatra - Secret, কখনো GitHub এ যাবে না
+google-services.json
+google-services.json
+.env
+*.keystore
+*.jks
+key.properties
+
+# Flutter - Auto Generate
+.dart_tool/
+.build/
+build/
+*.lock
+.pub-cache/
+.pub/
+.idea/
+.vscode/
