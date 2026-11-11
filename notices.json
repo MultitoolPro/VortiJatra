@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "updated_at": "2026-11-11",
+  "notices": [
+    {
+      "id": "du-a-2026",
+      "university": "DU A Unit",
+      "title": "DU A Unit ভর্তি বিজ্ঞপ্তি প্রকাশিত",
+      "type": "biggopti",
+      "pdf_url": "",
+      "date": "2026-11-11"
+    },
+    {
+      "id": "nu-2026",
+      "university": "NU",
+      "title": "NU ভর্তি বিজ্ঞপ্তি প্রকাশিত",
+      "type": "biggopti",
+      "pdf_url": "",
+      "date": "2026-11-11"
+    }
+  ]
+}
