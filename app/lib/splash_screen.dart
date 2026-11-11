@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
-import 'main.dart';
+import 'onboarding_screen.dart';
 
 class SplashScreen extends StatefulWidget {
   @override
@@ -19,7 +19,7 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
     _controller.forward();
 
     Timer(Duration(seconds: 3), () {
-      Navigator.pushReplacement(context, MaterialPageRoute(builder: (_) => HomePage()));
+      Navigator.pushReplacement(context, MaterialPageRoute(builder: (_) => OnboardingScreen()));
     });
   }
 
