@@ -20,28 +20,28 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'TOMAR_WEB_API_KEY',
-    appId: 'TOMAR_WEB_APP_ID',
-    messagingSenderId: 'TOMAR_SENDER_ID',
+    apiKey: 'AIzaSyCp-pvZ12zz-6ggNprGXN-bNPAsKaPImTc',
+    appId: '1:553411028992:android:4d1006342dc9181ca990e5',
+    messagingSenderId: '553411028992',
     projectId: 'vortijatra',
     authDomain: 'vortijatra.firebaseapp.com',
-    storageBucket: 'vortijatra.appspot.com',
+    storageBucket: 'vortijatra.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'TOMAR_ANDROID_API_KEY',
-    appId: 'TOMAR_ANDROID_APP_ID',
-    messagingSenderId: 'TOMAR_SENDER_ID',
+    apiKey: 'AIzaSyCp-pvZ12zz-6ggNprGXN-bNPAsKaPImTc',
+    appId: '1:553411028992:android:4d1006342dc9181ca990e5',
+    messagingSenderId: '553411028992',
     projectId: 'vortijatra',
-    storageBucket: 'vortijatra.appspot.com',
+    storageBucket: 'vortijatra.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'TOMAR_IOS_API_KEY',
-    appId: 'TOMAR_IOS_APP_ID',
-    messagingSenderId: 'TOMAR_SENDER_ID',
+    apiKey: 'AIzaSyCp-pvZ12zz-6ggNprGXN-bNPAsKaPImTc',
+    appId: '1:553411028992:android:4d1006342dc9181ca990e5',
+    messagingSenderId: '553411028992',
     projectId: 'vortijatra',
-    storageBucket: 'vortijatra.appspot.com',
-    iosBundleId: 'com.example.vortijatra',
+    storageBucket: 'vortijatra.firebasestorage.app',
+    iosBundleId: 'com.vortijatra.app',
   );
 }
