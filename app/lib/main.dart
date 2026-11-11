@@ -17,7 +17,7 @@ class VortiJatraApp extends StatelessWidget {
       title: 'VortiJatra',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(primaryColor: Color(0xFF0B3D2E), scaffoldBackgroundColor: Color(0xFF071E17)),
-      home: HomePage(),
+      home: SplashScreen(),
     );
   }
 }
